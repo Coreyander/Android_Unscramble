@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Unscramble.iml" filepath="$PROJECT_DIR$/.idea/Unscramble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unscramble.iml" filepath="$PROJECT_DIR$/.idea/modules/Unscramble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Unscramble.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Unscramble.app.iml" />
     </modules>
   </component>
 </project>
